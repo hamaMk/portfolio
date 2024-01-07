@@ -1,0 +1,191 @@
+header {
+    text-align: center;
+    color: #d8dee9;
+    background-color: #2e3440;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 40px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.foreground-section {
+    background-color: #c7c7c7;
+}
+
+/* Catppuccino Theme CSS */
+
+/* Background color */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    background-color: #1e2127;
+}
+
+/* Text color */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  color: #eceff4;
+}
+
+/* Link color */
+a {
+  color: #8fbcbb;
+}
+
+a:hover {
+  color: #88c0d0;
+}
+
+/* Accent color */
+.highlight {
+  color: #5e81ac;
+}
+
+/* Code block styles */
+pre {
+  background-color: #2e3440;
+  color: #d8dee9;
+  padding: 1em;
+  overflow: auto;
+}
+
+/* Inline code styles */
+code {
+  background-color: #2e3440;
+  color: #d8dee9;
+  padding: 0.2em;
+  font-family: "Courier New", monospace;
+}
+
+/* Blockquote styles */
+blockquote {
+  background-color: #3b4252;
+  color: #d8dee9;
+  padding: 1em;
+}
+
+/* Heading styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #eceff4;
+}
+
+/* List styles */
+ul,
+ol {
+  color: #eceff4;
+}
+
+/* Table styles */
+table {
+  color: #eceff4;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  border: 1px solid #4c566a;
+  padding: 0.5em;
+}
+
+/* Button styles */
+button {
+  background-color: #5e81ac;
+  color: #eceff4;
+  border: none;
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #81a1c1;
+}
+
+/* Input styles */
+input,
+textarea {
+  background-color: #2e3440;
+  color: #d8dee9;
+  border: 1px solid #4c566a;
+  padding: 0.5em;
+}
+
+/* Select styles */
+select {
+  background-color: #2e3440;
+  color: #d8dee9;
+  border: 1px solid #4c566a;
+  padding: 0.5em;
+}
+
+/* Form label styles */
+label {
+  color: #eceff4;
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: #2e3440;
+  color: #d8dee9;
+  padding: 1em;
+}
+
+/* Footer styles */
+.footer {
+    text-align: center;
+    background-color: #2e3440;
+    color: #d8dee9;
+    padding: 1em;
+}
+
+.icon{
+    height: 20px;
+}
+
+.social{
+    display: inline-flex;
+}
+
+.social ul {
+    display: flex;
+    list-style: none;
+}
+
+.social li {
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered {
+    text-align: center;
+}
